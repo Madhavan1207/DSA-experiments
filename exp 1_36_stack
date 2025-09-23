@@ -73,40 +73,39 @@ int main(){
 
 OUTPUT:-
 
---- Stack Menu ---
 1. Push
 2. Pop
 3. Peek
 4. Display
 5. Exit
-Enter your choice: 1
-Enter value to push: 7
-7 pushed to stack
-
---- Stack Menu ---
+select an option u want to be performed
+1
+Enter the value you want to push
+36
+The value 36 is pushed
 1. Push
 2. Pop
 3. Peek
 4. Display
 5. Exit
-Enter your choice: 1
-Enter value to push: 14
-14 pushed to stack
-
---- Stack Menu ---
+select an option u want to be performed
+1
+Enter the value you want to push
+72
+The value 72 is pushed
 1. Push
 2. Pop
 3. Peek
 4. Display
 5. Exit
-Enter your choice: 4
-Stack elements: 14 7 
-
---- Stack Menu ---
+select an option u want to be performed
+3
+The value is 72
 1. Push
 2. Pop
 3. Peek
 4. Display
 5. Exit
-Enter your choice: 5
-Exiting...
+select an option u want to be performed
+2
+72 is popped
