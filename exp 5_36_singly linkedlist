@@ -1,5 +1,5 @@
-Rishi Dembla
-D10C 07
+Madhavan Nadar
+D10C 36
 Experiment 5 
 Aim:-Implementation of Singly Linked List.
 
@@ -131,7 +131,7 @@ OUTPUT:-
 5. Display
 6. Exit
 Enter choice: 1
-Enter value: 7
+Enter value:36
 
 --- Singly Linked List Menu ---
 1. Insert at Beginning
@@ -141,7 +141,7 @@ Enter value: 7
 5. Display
 6. Exit
 Enter choice: 2
-Enter value: 14
+Enter value: 72
 
 --- Singly Linked List Menu ---
 1. Insert at Beginning
@@ -151,4 +151,4 @@ Enter value: 14
 5. Display
 6. Exit
 Enter choice: 5
-Linked List: 7 -> 14 -> NULL
+Linked List: 36 -> 72 -> NULL
