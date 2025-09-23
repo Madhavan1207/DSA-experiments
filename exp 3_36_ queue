@@ -89,7 +89,7 @@ OUTPUT:-
 4. Exit
 Enter your choice: 1
 Enter value to insert: 36
-7 inserted into the queue.
+36 inserted into the queue.
 
 --- Queue Menu ---
 1. Enqueue (Insert)
@@ -98,7 +98,7 @@ Enter value to insert: 36
 4. Exit
 Enter your choice: 1
 Enter value to insert: 72
-14 inserted into the queue.
+72 inserted into the queue.
 
 --- Queue Menu ---
 1. Enqueue (Insert)
@@ -107,3 +107,11 @@ Enter value to insert: 72
 4. Exit
 Enter your choice: 3
 Queue elements: 36 72
+
+--- Queue Menu ---
+1. Enqueue (Insert)
+2. Dequeue (Delete)
+3. Display Queue
+4. Exit
+Enter your choice: 4
+Existing program.
