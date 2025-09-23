@@ -69,5 +69,5 @@ int main() {
     return 0;
 }
 OUTPUT:-
-Enter Infix Expression: (A+B)*(C-D)
-Postfix Expression: AB+CD-*
+Enter Infix Expression: (A-B)/(A+B)
+Postfix Expression: AB-AB+/
