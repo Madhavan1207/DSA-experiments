@@ -1,5 +1,5 @@
-Rishi Dembla
-D10C 07
+Madhavan Nadar
+D10C 36
 Experiment 8
 Aim:-Implementation of Circular Doubly Linked List.
 
@@ -179,7 +179,7 @@ OUTPUT:-
 5. Display Backward
 6. Exit
 Enter choice: 1
-Enter value: 7
+Enter value: 36
 
 --- Circular Doubly Linked List Menu ---
 1. Insert at Beginning
@@ -189,7 +189,7 @@ Enter value: 7
 5. Display Backward
 6. Exit
 Enter choice: 1
-Enter value: 14
+Enter value: 72
 
 --- Circular Doubly Linked List Menu ---
 1. Insert at Beginning
@@ -199,4 +199,4 @@ Enter value: 14
 5. Display Backward
 6. Exit
 Enter choice: 4
-Forward: 14 <-> 7 <-> (back to head)
+Forward: 72 <-> 36 <-> (back to head)
