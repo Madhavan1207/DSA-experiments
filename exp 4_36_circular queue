@@ -111,7 +111,7 @@
         4. Exit
         Enter your choice: 1
         Enter value to enqueue: 72
-        14 inserted into the queue.
+        72 inserted into the queue.
         
         --- Circular Queue Menu ---
         1. Enqueue
