@@ -1,5 +1,5 @@
-Rishi Dembla
-D10C 07
+Madhavan Nadar
+D10C 36
 Experiment 9
 Aim:-Implementation of Binary Search Tree.
 
@@ -178,7 +178,7 @@ OUTPUT:-
 6. Postorder Traversal
 7. Exit
 Enter choice: 1
-Enter value to insert: 7
+Enter value to insert: 36
 
 --- Binary Search Tree Menu ---
 1. Insert
@@ -189,7 +189,7 @@ Enter value to insert: 7
 6. Postorder Traversal
 7. Exit
 Enter choice: 1
-Enter value to insert: 14
+Enter value to insert: 72
 
 --- Binary Search Tree Menu ---
 1. Insert
@@ -200,4 +200,4 @@ Enter value to insert: 14
 6. Postorder Traversal
 7. Exit
 Enter choice: 4
-Inorder: 7 14 
+Inorder: 36 72
